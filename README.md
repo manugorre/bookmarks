@@ -4,4 +4,4 @@ Table of contents
 
 ## Products
 
-(RICE - Simple prioritization for product managers)[https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers/
+[RICE - Simple prioritization for product managers](https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers)
