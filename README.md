@@ -7,3 +7,8 @@ Table of contents
 ## Products
 
 [RICE - Simple prioritization for product managers](https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers)
+
+
+## Dev
+
+[The Twelve Factors](https://12factor.net/)
