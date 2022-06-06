@@ -12,3 +12,9 @@ Table of contents
 ## Dev
 
 [The Twelve Factors](https://12factor.net/)
+
+## Server
+
+[SSL Checkup](www.ssllabs.com)
+[Security headers Checkup](https://securityheaders.com/)
+- [Harden Your Website With Traefik And Security Headers](https://levelup.gitconnected.com/harden-your-website-with-traefik-and-security-headers-a595844c4f1b)
