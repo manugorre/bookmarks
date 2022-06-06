@@ -3,6 +3,7 @@
 Table of contents
 
 1. [Products](#products)
+2. [Server](#server)
 
 ## Products
 
