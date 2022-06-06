@@ -3,14 +3,15 @@
 Table of contents
 
 1. [Products](#products)
-2. [Server](#server)
+2. [Good to read](#Good to read)
+3. [Server](#server)
 
 ## Products
 
 [RICE - Simple prioritization for product managers](https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers)
 
 
-## Dev
+## Good to read
 
 [The Twelve Factors](https://12factor.net/)
 
