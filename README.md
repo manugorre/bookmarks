@@ -3,7 +3,7 @@
 Table of contents
 
 1. [Products](#products)
-2. [Good to read](#Goodtoread)
+2. [Good to read](#Good2read)
 3. [Server](#server)
 
 ## Products
@@ -11,7 +11,7 @@ Table of contents
 [RICE - Simple prioritization for product managers](https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers)
 
 
-## Good to read
+## Good2Read
 
 [The Twelve Factors](https://12factor.net/)
 
