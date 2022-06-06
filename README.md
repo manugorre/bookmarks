@@ -3,7 +3,7 @@
 Table of contents
 
 1. [Products](#products)
-2. [Good to read](#Good to read)
+2. [Good to read](#Goodtoread)
 3. [Server](#server)
 
 ## Products
