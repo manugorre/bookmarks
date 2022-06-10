@@ -22,3 +22,5 @@ Table of contents
 
 [Security headers Checkup](https://securityheaders.com/) Tools used to test your site's security headers
 - [Harden Your Website With Traefik And Security Headers](https://levelup.gitconnected.com/harden-your-website-with-traefik-and-security-headers-a595844c4f1b) Might be helpfull when you need to improve your headers with traefik
+
+[Apache HTTP server benchmarking tool](https://httpd.apache.org/docs/2.4/programs/ab.html) Load testing tools
