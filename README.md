@@ -10,10 +10,13 @@ Table of contents
 
 [RICE - Simple prioritization for product managers](https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers)
 
+## Git
+[Efficient branching using git-flow](https://danielkummer.github.io/git-flow-cheatsheet/)
+[Commitizen](http://commitizen.github.io/cz-cli/) Simple commit conventions for internet citizens.
 
 ## Good to read
 
-[The Twelve Factors](https://12factor.net/)
+[The Twelve Factors](https://12factor.net/) git-flow are a set of git extensions to provide high-level repository operations
 
 ## Server
 
