@@ -3,8 +3,9 @@
 Table of contents
 
 1. [Products](#products)
-2. [Good to read](#Good-to-read)
-3. [Server](#server)
+2. [Git](#Git)
+3. [Good to read](#Good-to-read)
+4. [Server](#server)
 
 ## Products
 
