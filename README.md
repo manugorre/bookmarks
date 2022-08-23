@@ -33,4 +33,5 @@ Table of contents
 ## Others
 
 [VTT](sitesvtt.ffc.fr) Website where you can found mountain bike tracks
-[Micro adventures] (https://chilowe.com/) The reference for micro-adventure
+[Micro adventures](https://chilowe.com/) The reference for micro-adventure
+[Nomade aventure](https://www.nomade-aventure.com/) Road trip inspiration
