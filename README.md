@@ -27,7 +27,7 @@ Table of contents
 
 [SSL Labs](www.ssllabs.com) Tools used to test your site's certificates
 
-[SSL Config generator] (https://ssl-config.mozilla.org/)
+[SSL Config generator](https://ssl-config.mozilla.org/)
 
 [Security headers Checkup](https://securityheaders.com/) Tools used to test your site's security headers
 - [Harden Your Website With Traefik And Security Headers](https://levelup.gitconnected.com/harden-your-website-with-traefik-and-security-headers-a595844c4f1b) Might be helpfull when you need to improve your headers with traefik
