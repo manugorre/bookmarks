@@ -14,16 +14,19 @@ Table of contents
 [RICE - Simple prioritization for product managers](https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers)
 
 ## Git
-[Efficient branching using git-flow](https://danielkummer.github.io/git-flow-cheatsheet/)
+[Efficient branching using git-flow](https://danielkummer.github.io/git-flow-cheatsheet/) git-flow are a set of git extensions to provide high-level repository operations
+
+
 [Commitizen](http://commitizen.github.io/cz-cli/) Simple commit conventions for internet citizens.
 
 ## Good to read
 
-[The Twelve Factors](https://12factor.net/) git-flow are a set of git extensions to provide high-level repository operations
+[The Twelve Factors](https://12factor.net/) 
 
 ## Server
 
 [SSL Labs](www.ssllabs.com) Tools used to test your site's certificates
+
 [SSL Config generator] (https://ssl-config.mozilla.org/)
 
 [Security headers Checkup](https://securityheaders.com/) Tools used to test your site's security headers
