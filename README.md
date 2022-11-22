@@ -7,7 +7,8 @@ Table of contents
 3. [Good to read](#Good-to-read)
 4. [Server](#server)
 5. [Tools](#tools)
-6. [Others](#others)
+6. [Design](#design)
+7. [Others](#others)
 
 ## Products
 
@@ -36,6 +37,14 @@ Table of contents
 
 ## Tools
 [Isoflow](https://isoflow.io/) Make beautiful flow chart
+
+## Design
+[Better links](https://uxdesign.cc/designing-better-links-for-websites-and-emails-a-guideline-5b8638ce675a) Guidline for designing better links for webstites and emails
+
+[Better cancel button](https://uxdesign.cc/cancel-as-a-button-or-a-link-67ccbf9df81e) Should “cancel” be a button or a link?
+
+[Better spaces](https://medium.com/eightshapes-llc/space-in-design-systems-188bcbae0d62) Space in Design Systems
+
 
 ## Others
 
